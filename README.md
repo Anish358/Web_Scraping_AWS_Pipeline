@@ -76,5 +76,5 @@ docker-compose up
 
 ## ☎️ Contact
 
-Your Name - kumarparidasanjay23@gmail.com
+Sanjay Kumar Parida - kumarparidasanjay23@gmail.com
 Project Link: [https://github.com/SanjayKParida/web-scraping-aws-pipeline](https://github.com/SanjayKParida/web-scraping-aws-pipeline)
