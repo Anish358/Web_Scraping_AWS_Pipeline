@@ -18,7 +18,6 @@ This project implements an automated web scraping and analysis pipeline using Py
 - `src/`: Contains the main Python scripts
 - `config/`: Configuration files
 - `docs/`: Additional documentation
-- `tests/`: Unit tests
 - `Dockerfile`: Instructions for building the Docker container
 - `docker-compose.yml`: Docker Compose configuration
 
