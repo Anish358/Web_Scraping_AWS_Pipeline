@@ -1,4 +1,7 @@
 # Web Scraping and Analysis Pipeline
+[![AWS License](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Python License](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://aws.amazon.com/)
+[![Docker License](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 This project implements an automated web scraping and analysis pipeline using Python, Docker, and AWS services.
 
@@ -19,7 +22,7 @@ This project implements an automated web scraping and analysis pipeline using Py
 - `Dockerfile`: Instructions for building the Docker container
 - `docker-compose.yml`: Docker Compose configuration
 
-## Setup and Installation
+## 💡 Setup and Installation
 
 1. Clone the repository:
    ```
@@ -39,7 +42,7 @@ This project implements an automated web scraping and analysis pipeline using Py
 
 4. Update the `config/config.yaml` file with your AWS resource names and target websites.
 
-## Usage with Docker
+## ⚡️ Usage with Docker
 
 1. Build the Docker image:
    ```
@@ -59,7 +62,7 @@ Alternatively, use Docker Compose:
 docker-compose up
 ```
 
-## Local Usage (without Docker)
+## 📟 Local Usage (without Docker)
 
 1. Install dependencies:
    ```
@@ -71,11 +74,7 @@ docker-compose up
    python src/scraper.py
    ```
 
-## License
+## ☎️ Contact
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-Your Name - your.email@example.com
+Your Name - kumarparidasanjay23@gmail.com
 Project Link: [https://github.com/SanjayKParida/web-scraping-aws-pipeline](https://github.com/SanjayKParida/web-scraping-aws-pipeline)
