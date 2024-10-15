@@ -1,0 +1,10 @@
+version: '3'
+services:
+  web-scraper:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    volumes:
+      - ~/.aws:/root/.aws:ro
+    environment:
+      - AWS_PROFILE=default
